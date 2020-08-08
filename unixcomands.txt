@@ -1,0 +1,5 @@
+echo "Hello, World!"
+date
+ls -ltr
+du -sh
+df -h
